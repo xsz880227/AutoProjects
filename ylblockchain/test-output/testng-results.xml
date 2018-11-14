@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="326" started-at="2018-11-11T15:07:06Z" finished-at="2018-11-11T15:07:06Z">
+  <suite name="Default suite" duration-ms="41" started-at="2018-11-14T14:13:43Z" finished-at="2018-11-14T14:13:43Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="326" started-at="2018-11-11T15:07:06Z" finished-at="2018-11-11T15:07:06Z">
+    <test name="Default test" duration-ms="41" started-at="2018-11-14T14:13:43Z" finished-at="2018-11-14T14:13:43Z">
       <class name="fabric.chain.test.NewTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:fabric.chain.test.NewTest@46f5f779]" name="beforeTest" is-config="true" duration-ms="9" started-at="2018-11-11T23:07:06Z" finished-at="2018-11-11T23:07:06Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:fabric.chain.test.NewTest@46f5f779]" name="beforeTest" is-config="true" duration-ms="7" started-at="2018-11-14T22:13:43Z" finished-at="2018-11-14T22:13:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="f()[pri:0, instance:fabric.chain.test.NewTest@46f5f779]" name="f" duration-ms="304" started-at="2018-11-11T23:07:06Z" finished-at="2018-11-11T23:07:06Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:fabric.chain.test.NewTest@46f5f779]" name="f" duration-ms="23" started-at="2018-11-14T22:13:43Z" finished-at="2018-11-14T22:13:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:fabric.chain.test.NewTest@46f5f779]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-11-11T23:07:06Z" finished-at="2018-11-11T23:07:06Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:fabric.chain.test.NewTest@46f5f779]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-11-14T22:13:43Z" finished-at="2018-11-14T22:13:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
