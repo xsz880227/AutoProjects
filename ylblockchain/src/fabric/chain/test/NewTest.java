@@ -10,6 +10,7 @@ public class NewTest {
   public void f() {
 	  Logger log=Logger.getLogger(NewTest.class);
 	  log.error("error");
+	  log.fatal("fatal");
   }
   @BeforeTest
   public void beforeTest() {
